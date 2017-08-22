@@ -20,7 +20,9 @@
 */
   
 /*
-TAGS FINA100,A100TRA
+TAGS 
+#FINA100
+#A100TRA
 */
 User function A100TRA()
 
