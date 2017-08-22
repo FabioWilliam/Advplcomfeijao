@@ -19,8 +19,10 @@
   do campo A6_CONTA
 */
   
-
-user function A100TRA()
+/*
+TAGS FINA100,A100TRA
+*/
+User function A100TRA()
 
 local cDebito   := ""
 local cCredido 	:= ""
