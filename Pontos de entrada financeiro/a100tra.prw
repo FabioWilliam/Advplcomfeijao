@@ -65,4 +65,6 @@ SE5->E5_CREDITO :=cCredito
 SE5->E5_DEBITO := cDebito
 msunlock() 
 
+RestArea(_aAreaSA6)	
+RestArea(_aArea) 
 Return
